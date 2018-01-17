@@ -65,5 +65,27 @@
       "todaySpread": 76,
       "yesterdaySpread": 75
     }
+  ],
+  "moneyMarketAsset": [
+    {
+      "details": "1 Year",
+      "today": 7.3,
+      "yesterday": 7.35
+    },
+    {
+      "details": "1 Year",
+      "today": 7.3,
+      "yesterday": 7.35
+    },
+    {
+      "details": "1 Year",
+      "today": 7.3,
+      "yesterday": 7.35
+    },
+    {
+      "details": "1 Year",
+      "today": 7.3,
+      "yesterday": 7.35
+    }
   ]
 }
