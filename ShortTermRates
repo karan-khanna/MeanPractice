@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "name": "MIBOR O/N",
+      "today": 5.84,
+      "yesterday": 1.51,
+      "15 days ago": 13.15
+    },
+    {
+      "name": "Term Mibor 14 Days",
+      "today": 5.84,
+      "yesterday": 123456,
+      "15 days ago": 632.4
+    },
+    {
+      "name": "Term Mibor 1 month",
+      "today": 5.84,
+      "yesterday": 123456,
+      "15 days ago": 632.4
+    },
+    {
+      "name": "Term Mibor 3 months",
+      "today": 32.16,
+      "yesterday": 11.51,
+      "15 days ago": 1.15
+    }
+  ]
+}
