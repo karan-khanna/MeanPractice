@@ -35,5 +35,35 @@
       "yesterday": 1.51,
       "fifteenDays": 13.15
     }
+  ],
+  "corporateBond": [
+    {
+      "details": "1 Year",
+      "todayYield": 7.3,
+      "yesterdayYield": 7.35,
+      "todaySpread": 76,
+      "yesterdaySpread": 75
+    },
+    {
+      "details": "1 Year",
+      "todayYield": 7.3,
+      "yesterdayYield": 7.35,
+      "todaySpread": 76,
+      "yesterdaySpread": 75
+    },
+    {
+      "details": "1 Year",
+      "todayYield": 7.3,
+      "yesterdayYield": 7.35,
+      "todaySpread": 76,
+      "yesterdaySpread": 75
+    },
+    {
+      "details": "1 Year",
+      "todayYield": 7.3,
+      "yesterdayYield": 7.35,
+      "todaySpread": 76,
+      "yesterdaySpread": 75
+    }
   ]
 }
