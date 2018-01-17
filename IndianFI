@@ -1,0 +1,39 @@
+{
+  "moneyMarket": [
+    {
+      "details": "CBLO",
+      "wtgAvg": 5.84,
+      "totalVol": 1.51
+    },
+    {
+      "details": "CBLO",
+      "wtgAvg": 5.84,
+      "totalVol": 1.51
+    },
+    {
+      "details": "CBLO",
+      "wtgAvg": 5.84,
+      "totalVol": 1.51
+    }
+  ],
+  "shortTerm": [
+    {
+      "details": "MIBOR O/N",
+      "today": 5.84,
+      "yesterday": 1.51,
+      "fifteenDays": 13.15
+    },
+    {
+      "details": "MIBOR O/N",
+      "today": 5.84,
+      "yesterday": 1.51,
+      "fifteenDays": 13.15
+    },
+    {
+      "details": "MIBOR O/N",
+      "today": 5.84,
+      "yesterday": 1.51,
+      "fifteenDays": 13.15
+    }
+  ]
+}
