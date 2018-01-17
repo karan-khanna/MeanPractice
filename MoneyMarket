@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "name": "CBLO",
+      "avg": 5.84,
+      "total": 123456
+    },
+    {
+      "name": "REPO",
+      "avg": 15.16,
+      "total": 54651
+    },
+    {
+      "name": "CALL",
+      "avg": 5.64,
+      "total": 156548
+    }
+  ]
+}
