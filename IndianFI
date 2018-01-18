@@ -179,5 +179,22 @@
       "CYTD": 312,
       "FYTD": 265
     }
+  ],
+  "inflation": [
+    {
+      "details": "Nov",
+      "wpi": "2.3%",
+      "cpi": "4.56%"
+    },
+    {
+      "details": "Nov",
+      "wpi": "2.3%",
+      "cpi": "4.56%"
+    },
+    {
+      "details": "Nov",
+      "wpi": "2.3%",
+      "cpi": "4.56%"
+    }
   ]
 }
