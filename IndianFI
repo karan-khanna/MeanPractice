@@ -87,5 +87,28 @@
       "today": 7.3,
       "yesterday": 7.35
     }
+  ],
+  "gSecMarket": [
+    {
+      "details": "1 Year",
+      "today": 101.6,
+      "yesterday": 201.6,
+      "todayYield": 7.04,
+      "yesterdayYield": 6.99
+    },
+    {
+      "details": "1 Year",
+      "today": 103.4,
+      "yesterday": 25.6,
+      "todayYield": 5.32,
+      "yesterdayYield": 64.99
+    },
+    {
+      "details": "1 Year",
+      "today": 103.2,
+      "yesterday": 50.2,
+      "todayYield": 5.3,
+      "yesterdayYield": 68.3
+    }
   ]
 }
