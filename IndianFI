@@ -110,5 +110,28 @@
       "todayYield": 5.3,
       "yesterdayYield": 68.3
     }
+  ],
+  "gSecSpreads": [
+    {
+      "details": "5-1",
+      "today": 111,
+      "yesterday": 222,
+      "fifteenDays": 333,
+      "oneYear": 444
+    },
+    {
+      "details": "5-1",
+      "today": 111,
+      "yesterday": 222,
+      "fifteenDays": 333,
+      "oneYear": 444
+    },
+    {
+      "details": "5-1",
+      "today": 111,
+      "yesterday": 222,
+      "fifteenDays": 333,
+      "oneYear": 444
+    }
   ]
 }
