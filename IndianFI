@@ -133,5 +133,22 @@
       "fifteenDays": 333,
       "oneYear": 444
     }
+  ],
+  "forthcomingAuctions": [
+    {
+      "details": "91- Day",
+      "date": 123,
+      "amount": 456
+    },
+    {
+      "details": "91- Day",
+      "date": 123,
+      "amount": 456
+    },
+    {
+      "details": "91- Day",
+      "date": 123,
+      "amount": 456
+    }
   ]
 }
