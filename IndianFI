@@ -88,7 +88,7 @@
       "yesterday": 7.35
     }
   ],
-  "gSecMarket": [
+  "benchmarkSecurities": [
     {
       "details": "1 Year",
       "today": 101.6,
@@ -149,6 +149,35 @@
       "details": "91- Day",
       "date": 123,
       "amount": 456
+    }
+  ],
+  "fpiInflows": [
+    {
+      "details": "Equity",
+      "purchase": 123,
+      "sale": 456,
+      "net": 1651,
+      "netUSD": 654,
+      "CYTD": 312,
+      "FYTD": 265
+    },
+    {
+      "details": "Equity",
+      "purchase": 123,
+      "sale": 456,
+      "net": 1651,
+      "netUSD": 654,
+      "CYTD": 312,
+      "FYTD": 265
+    },
+    {
+      "details": "Equity",
+      "purchase": 123,
+      "sale": 456,
+      "net": 1651,
+      "netUSD": 654,
+      "CYTD": 312,
+      "FYTD": 265
     }
   ]
 }
