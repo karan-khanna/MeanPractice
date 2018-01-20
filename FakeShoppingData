@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "puma",
+    "Category": "shoes",
+    "price": 1000
+  },
+  {
+    "Name": "peter England",
+    "Category": "shirt",
+    "price": 2000
+  },
+  {
+    "Name": "bmw",
+    "Category": "car",
+    "price": 20000
+  },
+  {
+    "Name": "air india",
+    "Category": "plane",
+    "price": 50000
+  },
+  {
+    "Name": "motorola",
+    "Category": "mobile",
+    "price": 40000
+  }
+]
